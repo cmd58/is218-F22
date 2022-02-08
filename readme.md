@@ -1,13 +1,4 @@
-# Docker Nginx Flask Project Setup
-
-To run tests, Lint, and Coverage report use this command:
-
-pytest  --pylint --cov
-
-.pylintrc is the config for pylint
-.coveragerc is the config for coverage
-setup.py is a config file for pytest
-
-Just Run:
-
-docker compose up --build to get it to run and go to locahost to see the site.
+# IS218004 - Spring 2022
+## Python Project Set-Up 
+Program Running Screenshot
+![image](https://user-images.githubusercontent.com/91162178/152901644-eec61845-c3b3-46e6-9356-745b2d3c0a04.png)
